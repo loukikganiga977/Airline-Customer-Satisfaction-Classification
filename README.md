@@ -8,18 +8,18 @@ I developed this project to predict airline customer satisfaction using machine 
 ->Seaborn <br>
 ->Scikit-learn
 # Project Workflow
-->Data Collection
-->Data Cleaning & Preprocessing
-->Exploratory Data Analysis (EDA)
-->Feature Engineering
-->Model Training
-->Model Evaluation
+->Data Collection <br>
+->Data Cleaning & Preprocessing <br>
+->Exploratory Data Analysis (EDA) <br>
+->Feature Engineering <br>
+->Model Training <br>
+->Model Evaluation <br>
 ->Performance Comparison
 # Models Used
-->Logistic Regression
-->K-Nearest Neighbors (KNN)
-->Decision Tree
-->Random Forest
+->Logistic Regression <br>
+->K-Nearest Neighbors (KNN) <br>
+->Decision Tree <br>
+->Random Forest <br>
 ->Gaussian Naive Bayes
 # Objective
 The goal of this project is to build a machine learning model that accurately predicts customer satisfaction. The insights gained from this analysis can help airlines understand customer experiences and improve the quality of their services.
