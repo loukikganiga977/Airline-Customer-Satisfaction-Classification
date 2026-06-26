@@ -1,8 +1,8 @@
 # Airline-Customer-Satisfaction-Classification
 I developed this project to predict airline customer satisfaction using machine learning by analyzing passenger demographics, travel information, and service ratings. It includes data preprocessing, exploratory data analysis, feature scaling, model training, hyperparameter tuning, and performance evaluation to compare the effectiveness of multiple classification algorithms.
 # Technologies
-->Python
-->Pandas
+-Python
+-Pandas
 ->NumPy
 ->Matplotlib
 ->Seaborn
